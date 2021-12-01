@@ -1,0 +1,4 @@
+A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. 
+Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc. Variables can be declared by any name or even alphabets like a, aa, abc, etc.
+A Class is a logical grouping of data and functions. It gives the freedom to create data structures that contains arbitrary content and hence easily accessible. 
+For example, for any bank employee who want to fetch the customer details online would go to customer class, where all its attributes like transaction details, withdrawal and deposit details, outstanding debt, etc. would be listed out.
